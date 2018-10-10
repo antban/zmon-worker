@@ -14,7 +14,7 @@ Jinja2
 jsonpath-rw
 MarkupSafe
 numpy
-opentracing>=1.2.2,<2
+opentracing
 opentracing-utils>=0.14
 prometheus_client
 pykube
